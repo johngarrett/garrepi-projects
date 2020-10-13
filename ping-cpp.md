@@ -1,6 +1,6 @@
 ---
 title: Ping in C++
-image_url: /images/ping-cpp.png
+image_url: https://www.google.com/url?sa=i&url=https%3A%2F%2Ferg.abdn.ac.uk%2Fusers%2Fgorry%2Fcourse%2Finet-pages%2Ficmp.html&psig=AOvVaw2SUgrNHcbQow-MisEME8zr&ust=1602713515176000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiwx6HLsuwCFQAAAAAdAAAAABAP
 abstract: ping rewritten in c++. Orignally done for a cloudflare internship. 
 tags: c++, networking
 ---
