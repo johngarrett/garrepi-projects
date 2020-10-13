@@ -1,8 +1,8 @@
 ---
 title: Ping in C++
 image_url: https://openmaniak.com/image/ping-stop.jpg
-url: nil
-rank: 1
+url: https://github.com/johngarrett/pingpp 
+rank: 2
 abstract: ping rewritten in c++. Orignally done for a cloudflare internship. 
 tags: c++, networking
 ---

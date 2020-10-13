@@ -1,6 +1,8 @@
 ---
 title: Title Timer
 image_url: https://cdn.discordapp.com/attachments/513098379924996097/554205229021921290/Screen_Shot_2019-03-10_at_3.32.37_AM.png
+url: https://github.com/johngarrett/Title-Timer
+rank: 3
 abstract: a macOS application that lives in your menubar and helps you track time
 tags: swift, macOS, utility
 ---

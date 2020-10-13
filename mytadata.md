@@ -1,8 +1,8 @@
 ---
 title: mytadata
 image_url: https://github.com/johngarrett/mytadata/blob/master/IMG_0283.jpg?raw=true 
-url: nil
-rank: 1
+url: https://github.com/johngarrett/mytadata 
+rank: 6
 abstract: script for mutating metadata
 tags: python, script, photography
 ---

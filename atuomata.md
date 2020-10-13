@@ -1,8 +1,8 @@
 ---
 title: Automata 
 image_url: https://cdn.discordapp.com/attachments/513098379924996097/559195526592200715/Screen_Shot_2019-03-23_at_7.55.33_AM.png
-url: nil
-rank: 1
+url: https://github.com/johngarrett/HackCLT2019
+rank: 4
 abstract: a visualizer for medical disparity in the charlotte area
 tags: rust, javascript, web
 ---

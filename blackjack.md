@@ -1,8 +1,8 @@
 ---
 title: BlackJack 
 image_url: https://cdn.discordapp.com/attachments/765695223996350485/765695427345252382/Screenshot_2020-10-13_at_17.57.36.png
-url: nil
-rank: 1
+url: https://github.com/johngarrett/blackjack
+rank: 5
 abstract: a blackjack game played over the internet
 tags: python, low level, tui 
 ---
