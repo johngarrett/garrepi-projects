@@ -1,6 +1,8 @@
 ---
 title: Text Cast
 image_url: https://cdn.discordapp.com/attachments/513098379924996097/583320058370064404/IMG_5631.PNG
+url: nil
+rank: 1
 abstract: Put text from your phone on your chromecast
 tags: swift, iOS App
 ---

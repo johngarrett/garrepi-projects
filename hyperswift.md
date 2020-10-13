@@ -1,6 +1,8 @@
 ---
 title: HyperSwift 
 image_url: https://media.discordapp.net/attachments/732426870100066455/733822598504513566/unknown.png
+url: nil
+rank: 1
 abstract: A DSL written purely in Swift aimed to generate HTML styled with CSS.
 tags: swift, web
 ---

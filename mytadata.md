@@ -1,6 +1,8 @@
 ---
 title: mytadata
-image_url: https://github.com/johngarrett/mytadata/blob/master/IMG_0283.jpg
+image_url: https://github.com/johngarrett/mytadata/blob/master/IMG_0283.jpg?raw=true 
+url: nil
+rank: 1
 abstract: script for mutating metadata
 tags: python, script, photography
 ---
@@ -19,4 +21,4 @@ With this script, I can set:
 - film ISO
 - anything else I see applicable
 
-![sketch](https://github.com/johngarrett/mytadata/blob/master/IMG_0283.jpg)
+![sketch](https://github.com/johngarrett/mytadata/blob/master/IMG_0283.jpg?raw=true)
