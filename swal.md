@@ -10,6 +10,7 @@ tags: swift, web assembly, web
 ## Swift, WebAssembly, and Algorithms
 
 Try it out [here](https://garrepi.dev/swal)
+
 Check out the source code [here](https://github.com/johngarrett/swal-wasm/)
 
 ### purpose 
